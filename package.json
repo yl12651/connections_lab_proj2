@@ -1,0 +1,17 @@
+﻿{
+  "name": "connections-lab-proj2",
+  "version": "1.0.0",
+  "description": "Socket.io demo with p5.js breathing spheres",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
